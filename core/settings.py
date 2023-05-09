@@ -43,14 +43,14 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
+    "admin_corporate_pro.apps.AdminCorporateProConfig",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-
-    "admin_corporate_pro.apps.AdminCorporateProConfig",
+        
     "home",
 ]
 

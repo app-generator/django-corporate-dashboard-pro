@@ -4,4 +4,4 @@
 ### Changes
 
 - STABLE Version
-- Design: [Django Admin Corporate](https://github.com/app-generator/django-admin-corporate) `v1.0.1`
+- Design: [Django Admin Corporate PRO](https://github.com/app-generator/django-admin-corporate-pro) 
