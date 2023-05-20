@@ -6,7 +6,7 @@ The product is designed to deliver the best possible user experience with highly
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
 - 👉 [Corporate Dashboard PRO Django](https://appseed.us/product/corporate-dashboard-pro/django/) - `Product Page`
-- 👉 [Corporate Dashboard PRO Django](https://django-corporate-dash-pro.onrender.com) - `LIVE Demo`
+- 👉 [Corporate Dashboard PRO Django](https://django-corporate-pro.onrender.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
