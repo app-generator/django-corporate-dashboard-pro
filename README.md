@@ -1,6 +1,6 @@
-# **[Django Admin Corporate PRO](https://django-corporate-pro.onrender.com)**
+# **[Django Admin Corporate PRO](https://appseed.us/product/corporate-dashboard-pro/django/)**
 
-**Django** starter styled with **[Corporate Dashboard PRO](https://django-corporate-pro.onrender.com)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard-pro?AFFILIATE=128200).
+**Django** starter styled with **[Corporate Dashboard PRO](https://appseed.us/product/corporate-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://www.creative-tim.com/product/corporate-ui-dashboard-pro?AFFILIATE=128200).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
@@ -199,4 +199,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-**[Django Admin Corporate PRO](https://django-corporate-pro.onrender.com)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Corporate PRO](https://appseed.us/product/corporate-dashboard-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
